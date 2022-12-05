@@ -37,7 +37,7 @@
 - Ouvinte
 - Observador
 - Entusiasmado em aprender 
-
+ 
 
 E-mail: vigeance313@gmail.com
 Linkedin: https://www.linkedin.com/in/vitorio-correa-91848722b/
