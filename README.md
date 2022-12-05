@@ -36,6 +36,7 @@
 - Companheirismo 
 - Ouvinte
 - Observador
+- Entusiasmado em aprender 
 
 
 E-mail: vigeance313@gmail.com
