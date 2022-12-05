@@ -28,8 +28,8 @@
 
 🤖 Hard Skills:
 - HTML, CSS and Js
--Canva
--Adobe Illustrator
+- Canva
+- Adobe Illustrator
 
 😎 Soft Skills:
 - Comunicação Interpessoal
