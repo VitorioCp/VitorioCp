@@ -24,7 +24,8 @@
 
 
 
-- 👋 Olá! meu nome é Vitorio Corrêa, 18 anos/RJ-RJ.
+- 👋 Olá! meu nome é Vitorio Corrêa,tenho 19 anos e estudo Engenharia de Sfotware /RJ-RJ.  
+
 
 
 🤖 Hard Skills:
