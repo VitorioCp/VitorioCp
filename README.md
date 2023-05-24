@@ -25,7 +25,7 @@
 
 
 
-- 👋 Olá! meu nome é Vitorio Corrêa,tenho 19 anos e estudo Engenharia de Sfotware /RJ-RJ.  
+- 👋 Olá! meu nome é Vitorio Corrêa,tenho 19 anos e estudo Engenharia de Software /RJ-RJ.  
 
 
 
