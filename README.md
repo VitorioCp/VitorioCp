@@ -43,4 +43,4 @@
  
 
 E-mail: vigeance313@gmail.com
-Linkedin: https://www.linkedin.com/in/vitorio-correa-91848722b/
+Linkedin: https://www.linkedin.com/in/vit%C3%B3rio-correa/
