@@ -24,7 +24,7 @@
 
 
 
-- 👋 Olá! meu nome é Vitorio Corrêa, tenho 19 anos, sou estudante de Engenharia de Software na UNESA / RJ- Iguaba Grande.  
+- 👋 Olá! meu nome é Vitorio Corrêa, tenho 19 anos, sou estudante de Engenharia de Software na UNESA.
 
 
 
