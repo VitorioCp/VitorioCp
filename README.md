@@ -43,6 +43,6 @@
 - Entusiasmado em aprender 
  
 
-E-mail: vigeance313@gmail.com
+E-mail: vitcorreapereira@homtmail.com
 <br>
 Linkedin: https://www.linkedin.com/in/vit%C3%B3rio-correa/
