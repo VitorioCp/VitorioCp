@@ -31,7 +31,6 @@
 🤖 Hard Skills:
 - HTML, CSS and Js
 - PHP
-- MySQL
 - BootStrap
 - React
 - Figma
