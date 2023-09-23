@@ -1,4 +1,6 @@
-## 👋 Olá, Meu nome é Vitório Corrêa Pereira
+## 👋 Olá, Meu nome é Vitório Corrêa
+
+Olá, Sou desenvolvedor Front-End, cursando Engenharia de Software pela Unesa, tenho o objetivo de se tornar um desenvolvedor Full-Stack futuramente.
 
 
 <div>
@@ -13,6 +15,8 @@
    <img align="center" alt="vitorio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="vitorio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="vitorio-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="vitorio-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="vitorio-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
   ##
@@ -22,17 +26,13 @@
   <a href="https://www.linkedin.com/in/vit%C3%B3rio-correa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-
-
-- 👋 Olá! meu nome é Vitorio Corrêa, tenho 19 anos, sou estudante de Engenharia de Software na UNESA.
-
-
-
 🤖 Hard Skills:
 - HTML, CSS and Js
+- React
+- NodeJs
 - PHP
 - BootStrap
-- React
+- Tailwind
 - Figma
 
 😎 Soft Skills:
@@ -42,7 +42,3 @@
 - Observador
 - Entusiasmado em aprender 
  
-
-E-mail: vitcorreapereira@homtmail.com
-<br>
-Linkedin: https://www.linkedin.com/in/vit%C3%B3rio-correa/
