@@ -6,6 +6,7 @@ Olá, Sou desenvolvedor Front-End, cursando Engenharia de Software pela Unesa, t
 <div>
 <a href="https://github.com/VitorioCp">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorioCp&layout=compact&langs_count=7&theme=dracula"/>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorioCp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
@@ -23,8 +24,12 @@ Olá, Sou desenvolvedor Front-End, cursando Engenharia de Software pela Unesa, t
 
 <div> 
   <a href = "mailto:vigeance313@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vit%C3%B3rio-correa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/vit%C3%B3rio-correa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.dio.me/users/vitcorreapereira">
+<img src="https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge"></img> </a>
 </div>
+
+
 
 🤖 Hard Skills:
 - HTML, CSS and Js
@@ -35,10 +40,10 @@ Olá, Sou desenvolvedor Front-End, cursando Engenharia de Software pela Unesa, t
 - Tailwind
 - Figma
 
+
 😎 Soft Skills:
 - Comunicação Interpessoal
 - Companheirismo 
 - Ouvinte
 - Observador
 - Entusiasmado em aprender 
- 
