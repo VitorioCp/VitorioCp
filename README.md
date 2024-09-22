@@ -1,6 +1,6 @@
 ## 👋 Olá, Meu nome é Vitório Corrêa
 
-Olá, Sou desenvolvedor Front-End, cursando Engenharia de Software pela Unesa, tenho o objetivo de se tornar um desenvolvedor Full-Stack futuramente.
+Sou Engenheiro de Software em formação, FullStack
 
 
 <div>
