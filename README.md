@@ -1,6 +1,6 @@
-## 👋 Olá, Meu nome é Vitório Corrêa
+## Vitório Corrêa
 
-Sou Engenheiro de Software em formação, FullStack
+Desenvolvedor Full-Stack
 
 
 <div>
@@ -33,9 +33,16 @@ Sou Engenheiro de Software em formação, FullStack
 
 🤖 Hard Skills:
 - HTML, CSS and Js
-- React
+- ReactJs
+- NextJs
+- Typescript
 - NodeJs
-- PHP
+- PostgreSql
+- Supabase
+- Firebase
+- MySQL
+- insomnia
+- Postman
 - BootStrap
 - Tailwind
 - Figma
